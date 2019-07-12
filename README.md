@@ -1,5 +1,5 @@
 # Dataset
-This is an SQLite database, which contains all the data we collected in the experiment.
+Db.sqlite is an SQLite database, which contains all the data we collected in the experiment.
 
 ## Tables related to SQL statements submitted by students
 
