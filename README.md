@@ -14,7 +14,7 @@ Table 1 Description of exercise_result table.
 | Field | comment | datatype |
 | :------:| :------: | :------: |
 | submission_id  | Submission ID | INT |
-| submission_answer | SQL statement submitted by student | INT |
+| submitted_answer | SQL statement submitted by student | TEXT |
 | submission_time | Time of submission | NUM |
 | answer | Reference statement provided by tutors | TEXT |
 | exercise_id | Exercise ID | INT |
