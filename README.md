@@ -5,7 +5,8 @@ Db.sqlite is an SQLite database file, which contains all the data we collected i
 
 Tables with names beginning with 'exercise_' are all related to SQL statements, and two of them are most important. 
 One is the exercise_result table, which records most of the information related to the SQL statements submitted by students, 
-and the other is the exercises_exercise table, which records most of the information related to exercises.
+and the other is the exercises_exercise table, which records most of the information related to exercises. 
+**The student submissions are stored in the 'submission_answer' field of the exercise_result data table.**
 
 
 Table 1 Description of exercise_result table.
