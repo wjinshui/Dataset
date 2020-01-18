@@ -15,13 +15,13 @@ Table 1 Description of exercise_result table.
 | :------:| :------: | :------: |
 | submission_id  | Submission ID | INT |
 | submitted_answer | SQL statement submitted by student | TEXT |
-| submission_time | Time of submission | NUM |
+| submitted_time | Time of submission | NUM |
 | answer | Reference statement provided by tutors | TEXT |
 | exercise_id | Exercise ID | INT |
 | is_correct | Mark whether the statement is correct | INT |
 | score | Scores calculated by our model | REAL |
 | student_id | Student ID | INT |
-| remark | Classification of statement | TEXT |
+| type | Classification of statement | TEXT |
 | difficulty | The difficulty coefficient of the exercise | INT |
 
 
