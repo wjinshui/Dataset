@@ -1,5 +1,5 @@
 # Dataset
-Db.sqlite is an SQLite database file, which contains all the data we collected in the experiment.
+**All experimental data are stored in Submission.sqlite, which is an SQLite database file. It is recommended to use software such as DB browser or SQLite expert to explore the database.**
 
 ## Tables related to SQL statements submitted by students
 
